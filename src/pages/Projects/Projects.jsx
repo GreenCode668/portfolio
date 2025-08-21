@@ -19,10 +19,10 @@ const projects = [
     description:
       "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://github.com/GreenCode668/portfolio/blob/main/src/assets/images/screen.png",
     color: "#8f89ff",
     githubLink: "https://github.com/GreenCode668/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    liveLink: "https://portfolio-nine-sepia-rdfyisc6yg.vercel.app",
   },
   {
     title: "🚀 CodeWhisperer",
